@@ -1,9 +1,8 @@
 # CodeRefactor
 
 ## Description
-I decided to build this project because I have always had a passion to teach users how to run a successful business. 
-The most straightforward way to build a successful business is by having proper marketing techniques, which is why I decided to base my project around this topic.
-My project describes the three most important factors to maximize the number of users visiting your website: Search Engine Optimization, reputation, and social media.
+This project teaches users how to run a successful business. The most straightforward way to make a business successful is by having proper marketing techniques.
+This project describes the three most important factors to maximize the number of users visiting your website: Search Engine Optimization, reputation, and social media.
 While building this project, the most important thing I learned is to maximize accessibility for everyone. This means using more semantic (descriptive) elements, adding alternative text to images, and putting headers in sequential order to name a few.
 
 ## Installation
