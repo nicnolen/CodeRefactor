@@ -9,7 +9,7 @@ While building this project, the most important thing I learned is to maximize a
 There is no installation required for this website. Simply clink on this link below and you will be taken directly to the website!
 Link: https://nicnolen.github.io/CodeRefactor/
 When you click on the link, you should see a webpage similar to the one below. If you see this page, you're good to go!
-![Screenshot of what Horiseon website should look like](https://user-images.githubusercontent.com/88728912/140578957-a5dd08e5-0992-4ecd-8d8b-8bbe2b68b4c9.png)
+![Screenshot of what Horiseon website should look like](https://user-images.githubusercontent.com/88728912/140763603-78a763f7-7060-4762-ace0-a92180a1a455.png)
 
 
 ## How to Contribute
