@@ -5,6 +5,11 @@ Horiseon teaches users how to run a successful business. The most straightforwar
 Horiseon describes the three most important factors to maximize the number of users visiting your website: Search Engine Optimization, reputation, and social media.
 While building this project, the most important thing I learned is to maximize accessibility for everyone. This means using more semantic (descriptive) elements, adding alternative text to images, and putting headers in sequential order to name a few.
 
+## Built With
+- HTML
+- CSS
+- JavaScript
+
 ## Installation
 There is no installation required for this website. Simply clink on this link below and you will be taken directly to the website!
 Link: https://nicnolen.github.io/CodeRefactor/
